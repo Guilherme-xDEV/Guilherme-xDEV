@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there 👋
+- My Name Is Guilherme 🇧🇷
+- I'm a beginner Machine Learning Software Engineer
+
+### 🔭 I’m working on
+- 48 ML projects || Each Week a Project
+- Develop My Skills
+
+### :green_book: I’m currently learning
+- Fundamentals Of ML
+- Deep Learning
+- Neural Networks
+
+### :pushpin: current skills
+- Python Is My Main Language For Programming.
 
 <!--
-**Guilherme-xDEV/Guilherme-xDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
